@@ -1,0 +1,9 @@
+{
+  "name": "SteamBigMoney",
+  "version": "1.0.0",
+  "description": "Steam market history analyzer",
+  "main": "index.js",
+  "repository": "git@github.com:etomarat/SteamBigMoney.git",
+  "author": "Marat Azizov <etomarat@gmail.com>",
+  "license": "GNU"
+}
