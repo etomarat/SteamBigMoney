@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 const settings = require('./settings.json');
-const getHistory = require('./services').getHistory;
+const getHistory = require('./src/services').getHistory;
 
 global.settings = {...settings}
 
